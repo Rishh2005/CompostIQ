@@ -1,4 +1,16 @@
 # CompostIQ
+---
+
+<div align="center" style="margin: 20px 0;">
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2N1Z3R6b2V6aHp4enIwcGJzcDZ2YWVscXFqcDIwM3RnZ3pzbXNlcSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/trmcISE4M2II78U0zf/giphy.gif" 
+    alt="Nirbhay India Banner" 
+    width="100%" 
+    style="max-height: 400px; object-fit: cover; border-radius: 8px;"
+  />
+</div>
+
+---
 
 **CompostIQ** is a data-driven project aimed at optimizing composting efficiency through real-world experiments and analysis. The project explores how various factors such as the carbon-to-nitrogen (C/N) ratio, moisture levels, and aeration impact the quality and speed of composting. CompostIQ provides actionable insights for individuals, schools, and communities looking to manage organic waste sustainably.
 
