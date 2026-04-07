@@ -69,7 +69,7 @@ To identify the most effective composting conditions by conducting experiments, 
 - **Tableau / Power BI** – For creating visual dashboards  
 - **Notion / Google Docs** – For documentation and planning  
 - **Manual Sensors** (optional) – For temperature and moisture tracking (if available)
-
+- 
 ---
 
 ## 💡 Future Improvements
