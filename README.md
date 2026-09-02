@@ -16,7 +16,7 @@
 
 ---
 
-## 📌 Objective
+## Objective
 
 To identify the most effective composting conditions by conducting experiments, collecting data, and analyzing results to help users:
 - Improve the quality of their compost
@@ -25,7 +25,7 @@ To identify the most effective composting conditions by conducting experiments, 
 
 ---
 
-## 🧪 How It Works
+## How It Works
 
 1. **Experimental Setup**
    - Multiple compost bins with varying conditions (C/N ratio, moisture, aeration)
@@ -45,7 +45,7 @@ To identify the most effective composting conditions by conducting experiments, 
 
 ---
 
-## 📊 Features
+## Features
 
 - Experimental tracking of composting variables
 - Visual dashboards with key insights (using Tableau or similar tools)
@@ -54,7 +54,7 @@ To identify the most effective composting conditions by conducting experiments, 
 
 ---
 
-## 🔍 Key Learnings and Highlights
+## Key Learnings and Highlights
 
 - Data visualization and dashboard design
 - Project pitching and stakeholder feedback integration
@@ -63,7 +63,7 @@ To identify the most effective composting conditions by conducting experiments, 
 
 ---
 
-## 🧩 Tools & Technologies Used
+## Tools & Technologies Used
 
 - **Microsoft Excel / Google Sheets** – For data entry and initial analysis  
 - **Tableau / Power BI** – For creating visual dashboards  
@@ -72,7 +72,7 @@ To identify the most effective composting conditions by conducting experiments, 
 - 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 
 - Automate data collection using IoT sensors (temperature, humidity, gas levels)
 - Develop a web-based tool for real-time compost tracking
@@ -81,13 +81,7 @@ To identify the most effective composting conditions by conducting experiments, 
 
 ---
 
-## 🤝 Contributions
-
-This project is a part of the **1M1B Future Leaders Program** under the **LIP Sprint** in collaboration with **EY** and **Microsoft**.
-
----
-
-## 📬 Contact
+## Contact
 
 If you have feedback, suggestions, or want to collaborate:  
 **Rishabh Jain**  
@@ -97,7 +91,7 @@ Email: rishabhjain1175@gmail.com
 
 ---
 
-## 📄 License
+## License
 
 This project is for educational and research purposes. Open to contributions and collaborations.
 
